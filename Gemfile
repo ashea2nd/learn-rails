@@ -61,4 +61,4 @@ gem 'jquery-rails'
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
-end”
+end
